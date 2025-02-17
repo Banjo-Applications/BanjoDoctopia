@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"filename":{"$numberInt":"1"}},"name":"filename_1","background":true,"unique":true}],"uuid":"64455314ed64474290202a180d39a493","collectionName":"drives","type":"collection"}
